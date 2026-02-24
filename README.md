@@ -12,6 +12,8 @@ Ejecute:
     npm inti -y # crear el proyecto node 
     # instalar primeras dependecias 
     npm install express
+    npm i dotenv
+    npm i mysql2
 ```
 
 * La carpeta ``node_modules`` no deberia al repo
